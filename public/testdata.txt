@@ -1,5 +1,0 @@
-https://web.rentsoft.cn/api
-wss://web.rentsoft.cn/msg_gateway
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiIzMzI1MDg2NDM4IiwiUGxhdGZvcm1JRCI6MiwiZXhwIjoxNzUwNTgxMjg5LCJpYXQiOjE3NDI4MDUyODR9.Zbzy5MQ5wLEhCKHbltUgJ4mjCL4iyk_pW5ombG0jg7Q
-3325086438
-2

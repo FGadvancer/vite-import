@@ -8,11 +8,11 @@ const IMSDK = getSDK();
 
 function App() {
   const [loginParams, setLoginParams] = useState({
-    userID: "",
-    token: "",
+    userID: "9287067436",
+    token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI5Mjg3MDY3NDM2IiwiUGxhdGZvcm1JRCI6NSwiZXhwIjoxNzUzMTUyODI5LCJpYXQiOjE3NDUzNzY4MjR9.t9DB8eu0azM72fDn1_-cgT5BJ_NC6lOQIo0nlND4f6A",
     platformID: 5,
-    apiAddr: "",
-    wsAddr: "",
+    apiAddr: "https://web.openim.io/api",
+    wsAddr: "wss://web.openim.io/msg_gateway",
   });
 
   const handleChange = (e) => {
